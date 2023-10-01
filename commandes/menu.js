@@ -36,12 +36,12 @@ zokou({ nomCom: "menu", categorie: "Général" }, async (dest, zk, commandeOptio
 ║📌 *Heure* -> ${temps}
 ║📌 *Mémoire* -> ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ║📌 *Plateforme* -> ${os.platform()}
-║📌 *Développeurs* -> Djalega++ 
-║ & ᚛M๏𝓷keℽ D Lบffy᚜
+║📌 *Développeurs* -> 𝚩𝚵𝛁𝚵𝚪𝐋𝐘 𝐊𝚰𝚳
+║ & ᚛𝐊𝚰𝚳 𝚩𝚯𝚻©²⁰²³᚜
 ╚═════ஜ۩۞۩ஜ═══╝\n\n`;
     
     let menuMsg = `*👋 salut ${nomAuteurMessage} 👋*
-Je me nomme *${s.NOM_BOT}*, un bot développé par *La team Zokou*.
+Je me nomme *${s.NOM_BOT}*, un bot développé par *La team TUTOMAG237*.
 
 *Voici la liste de mes commandes :*
 \n`;
@@ -55,7 +55,7 @@ Je me nomme *${s.NOM_BOT}*, un bot développé par *La team Zokou*.
 
     menuMsg += `\n➖➖➖➖➖➖➖➖➖
 ✔️  *Pour utiliser une commande, tapez "${prefixe}<nom de la commande>"*.
-✔️  *Fait avec node.js || Zokou_2.0-MD*
+✔️  *Fait avec node.js || 𝐊𝚰𝚳 𝚩𝚯𝚻©²⁰²³*
 `;
 
    var lien = botpic();
