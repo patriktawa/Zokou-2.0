@@ -489,14 +489,14 @@ function botpic() {
                 }
                 console.log("chargement des commandes terminé ✅");
                 let cmsg = `╔════◇
-║ 『𝐙𝐨𝐤𝐨𝐮-𝐌𝐃』
+║ 『𝚻𝐔𝚻𝚯𝚳𝚫𝐆237』
 ║    Prefix : [ ${prefixe} ]
 ║    Mode :${md}
 ║    Total Commandes : ${evt.cm.length}︎
 ╚══════════════════╝
 
 ╔═════◇
-║『𝗯𝘆 Djalega++』
+║『𝗯𝘆 𝚸𝚫𝚻𝚪𝚰𝐊 𝚻𝚫𝐖𝚫』
 ║ 
 ╚══════════════════╝`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
